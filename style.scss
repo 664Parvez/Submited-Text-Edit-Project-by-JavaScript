@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+#box{
+    height: 120px;
+    width: 350px;
+    padding: 5px;
+    background: #fa771f;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-radius: 5px;
+}
